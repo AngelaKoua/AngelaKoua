@@ -1,7 +1,6 @@
 Hi there, I'm Angela Koua 👋
 
-🎓 **Bachelor of Engineering Student** at École Centrale Casablanca  
-🎓 **M.Sc. in Data Science, Machine Learning & Artificial Intelligence** at the University of Rouen Normandy
+🎓 **M.Sc. in Data Science for Machine Learning & Artificial Intelligence** at University of Rouen Normandy
 
 ---
 
@@ -43,17 +42,7 @@ I am eager to contribute to innovative projects while strengthening my technical
 
 ---
 
-## 📌 Featured Projects
-
-- 🚀 CRM Platform (Next.js + FastAPI + PostgreSQL)
-- 🤖 Machine Learning Projects
-- 📊 Data Analysis & Visualization
-- 🌐 Full-Stack Web Applications
-- 📈 Power BI Dashboards
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: (https://linkedin.com/in/angela-koua)
-- 📧 Email: angelaeloiseangie@gmail.com
+- 📧 Email: angelakoua5@gmail.com
